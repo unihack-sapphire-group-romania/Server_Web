@@ -20,3 +20,5 @@ The website also shows realtime statistics about the pandemic in Romania, a futu
 Front-end: HTML, CSS, Javascript, Boostrap 
 Back-end: Python Flask
 Machine learning: Tensorflow and Keras frameworks
+
+Latest version available at http://covid-z.vision
